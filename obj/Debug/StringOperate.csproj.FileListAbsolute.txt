@@ -1,0 +1,17 @@
+c:\users\qinte\documents\visual studio 2015\Projects\StringOperate\bin\Debug\StringOperate.exe
+c:\users\qinte\documents\visual studio 2015\Projects\StringOperate\bin\Debug\StringOperate.pdb
+c:\users\qinte\documents\visual studio 2015\Projects\StringOperate\obj\Debug\StringOperate.csprojResolveAssemblyReference.cache
+c:\users\qinte\documents\visual studio 2015\Projects\StringOperate\obj\Debug\StringOperate.Form1.resources
+c:\users\qinte\documents\visual studio 2015\Projects\StringOperate\obj\Debug\StringOperate.Properties.Resources.resources
+c:\users\qinte\documents\visual studio 2015\Projects\StringOperate\obj\Debug\StringOperate.csproj.GenerateResource.Cache
+c:\users\qinte\documents\visual studio 2015\Projects\StringOperate\obj\Debug\StringOperate.exe
+c:\users\qinte\documents\visual studio 2015\Projects\StringOperate\obj\Debug\StringOperate.pdb
+G:\3.C#\C#编程文件\StringOperate\bin\Debug\StringOperate.exe
+G:\3.C#\C#编程文件\StringOperate\bin\Debug\StringOperate.pdb
+G:\3.C#\C#编程文件\StringOperate\obj\Debug\StringOperate.csprojResolveAssemblyReference.cache
+G:\3.C#\C#编程文件\StringOperate\obj\Debug\StringOperate.Form1.resources
+G:\3.C#\C#编程文件\StringOperate\obj\Debug\StringOperate.Properties.Resources.resources
+G:\3.C#\C#编程文件\StringOperate\obj\Debug\StringOperate.csproj.GenerateResource.Cache
+G:\3.C#\C#编程文件\StringOperate\obj\Debug\StringOperate.exe
+G:\3.C#\C#编程文件\StringOperate\obj\Debug\StringOperate.pdb
+G:\3.C#\C#编程文件\StringOperate\obj\Debug\StringOperate.csproj.CoreCompileInputs.cache
